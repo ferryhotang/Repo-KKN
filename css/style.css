@@ -133,6 +133,8 @@ section {
 
 .header .logo img {
   width: 7rem;
+  margin-left: 30px;
+
 }
 
 .header .search-form {
@@ -185,7 +187,8 @@ section {
 }
 
 .home .content img {
-  width: 60%;
+  width: 280px;
+  height:280px;
 }
 
 .home .content h3 {
